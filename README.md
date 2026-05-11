@@ -11,7 +11,7 @@ Fetches daily from 3 sources — Arxiv cs.AI/cs.LG, Hacker News,
 and AI newsletters. Sends all content to Groq AI which filters 
 and ranks into a structured digest:
 
-- Top 3 Papers — latest AI/ML research worth reading
+- Top 3 Papers — latest AI/ML research worth reading again
 - Top 3 Industry Moves — what's happening in the field
 - Top 3 Tools & Launches — new things worth trying
 - Top Job to Know — relevant opportunity if available
